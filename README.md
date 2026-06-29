@@ -1,16 +1,13 @@
 # AI Chatbot 🤖
-
 A simple AI chatbot built with python and Google Gemini API.
 
-##Features 
-   
+##Features  
    -AI-powered conversation 
    -Chat memory
    -Terminal-based Interferace
    -Built using python
 
 ##Tech Stack
-  
    -Python
    -Google Gemini API
 
@@ -20,11 +17,9 @@ A simple AI chatbot built with python and Google Gemini API.
 '''
 
 ##Run
-
 '''bash
     python chatbot.py
 '''
 
 #Author
-
 Svat Vaibhav Dada
