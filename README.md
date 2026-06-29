@@ -341,10 +341,11 @@ git push origin feature-name
 Artificial Intelligence & Data Science Student
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/vaibh906
 
 LinkedIn:
-YOUR_LINKEDIN
+www.linkedin.com/in/vaibhav-pande-996a10360
+
 
 ---
 
